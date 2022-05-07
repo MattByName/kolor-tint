@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "contact@missingbit.co.uk",
+                "Name": "Matt Barnard"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A widget to take over the world!",
+        "Icon": "battery",
+        "Id": "com.github.zren.helloworld",
+        "Name": "Hello World",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1",
+        "Website": "https://github.com/Zren/plasmoid-helloworld"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
