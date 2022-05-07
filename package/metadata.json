@@ -6,16 +6,16 @@
                 "Name": "Matt Barnard"
             }
         ],
-        "Category": "System Information",
-        "Description": "A widget to take over the world!",
-        "Icon": "battery",
-        "Id": "com.github.zren.helloworld",
-        "Name": "Hello World",
+        "Category": "Accessibility",
+        "Description": "ColorTint is a plasma widget that draws a translucent coloured overlay over your desktop. This is to help people with dyslexia, scopic sensitivity, and related conditions.",
+        "Icon": "kcolorpaint",
+        "Id": "com.github.mattbyname.color-tint-kde",
+        "Name": "ColorTint",
         "ServiceTypes": [
             "Plasma/Applet"
         ],
         "Version": "1",
-        "Website": "https://github.com/Zren/plasmoid-helloworld"
+        "Website": "https://github.com/MattByName/color-tint-plasma"
     },
     "X-Plasma-API": "declarativeappletscript",
     "X-Plasma-MainScript": "ui/main.qml"
